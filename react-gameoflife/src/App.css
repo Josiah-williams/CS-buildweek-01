@@ -1,4 +1,39 @@
-.worldContainer {
+/*Global css Reset */
+* {
+  box-sizing: borer-box;
+  margin:0;
+  padding: 0
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1,4;
+}
+
+a {
+  color: #333;
+  text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .worldContainer {
   display: flex;
   flex-direction: column;
   flex: 1;
@@ -44,4 +79,4 @@
   justify-content: space-between;
   width: 20%;
   padding: 0 20px 20px;
-}
+} */
