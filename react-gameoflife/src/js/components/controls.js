@@ -25,7 +25,7 @@ export default function Controls({
         onChange={e => setSpeedInput(e.target.value)}
       />
       <button onClick={() => setClickable(prevState => !prevState)}>
-        {clickable ? "Start" : "Stop"}   //clickable start and stop button
+        {clickable ? "Start" : "Stop"}   
       </button>
     </div>
   );
