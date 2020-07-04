@@ -3,6 +3,8 @@ import GridContainer from "./js/components/GridContainer";
 import RulesContainer from "./js/components/RulesContainer";
 import Title from "./js/components/Title";
 // import About from './components/About'
+import "./CSS/App.css";
+
 
 function App() {
   return (
